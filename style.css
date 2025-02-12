@@ -41,8 +41,8 @@ body{
 }
 
 .contenedor_grueso{
-    width: 300px;
-    max-width: 400px;
+    width: 100%;
+    max-width: 100%;
 }
 
 .contenedor_delgado,.contenedor_grueso{
